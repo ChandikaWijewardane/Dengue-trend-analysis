@@ -52,5 +52,5 @@ See the `outputs/` folder for the charts, the results table and the written repo
 - Baseline settings are working choices and should be checked with a sensitivity analysis
 
 ## Author
-[Your name], [Your organisation], [Month Year]
+Chandika Wijewardene, Sri Lanka Red cross Society, 11/2026
 
