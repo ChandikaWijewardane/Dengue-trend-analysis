@@ -1,0 +1,12 @@
+# Raw surveillance data - do not upload
+data/
+*.xls
+*.xlsx
+!outputs/dengue_baseline_results.xlsx
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
